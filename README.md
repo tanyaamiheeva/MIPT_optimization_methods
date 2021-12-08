@@ -13,5 +13,5 @@
 Сам метод бисопряженных градиентов является неустойчивым (могут увеличивать ошибки аппроксимации, что приводит к росту отклонения от точного решения), поэтому будет рассмотрена и его стабильная версия.  
 
 # Для ознакомления с практическим и теоретическим содержанием проекта - см. ноутбуки:
-1. метод параллельных тангенсов - ~~[ссылка](https://github.com/tanyaamiheeva/MIPT_optimization_methods/blob/main/partan.jpg)~~[ссылка](https://github.com/tanyaamiheeva/MIPT_optimization_methods/blob/main/ParTan.ipynb)  
+1. метод параллельных тангенсов - ~~[ссылка](https://github.com/tanyaamiheeva/MIPT_optimization_methods/blob/main/partan.jpg)~~ [ссылка](https://github.com/tanyaamiheeva/MIPT_optimization_methods/blob/main/ParTan.ipynb) (если картинки не прогружаются - попробуйте обновить страницу)
 2. метод бисопряженных градиентов - [ссылка](https://github.com/tanyaamiheeva/MIPT_optimization_methods/blob/main/BiCGStab.ipynb)
